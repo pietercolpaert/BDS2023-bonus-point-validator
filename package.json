@@ -1,0 +1,13 @@
+{
+  "name": "bds-bonus-point-validator",
+  "version": "1.0.0",
+  "description": "Dereferences pages and searches for people who deserve a bonus point in my BDS course",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "rdf-dereference": "^2.1.0"
+  }
+}
