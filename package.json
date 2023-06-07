@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Dereferences pages and searches for people who deserve a bonus point in my BDS course",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "author": "",
   "license": "CC0-1.0",
   "dependencies": {
+    "n3": "^1.16.4",
     "rdf-dereference": "^2.1.0"
   }
 }
